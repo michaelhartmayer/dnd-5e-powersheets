@@ -1,0 +1,19 @@
+{
+  "name": "dnd-5e-powersheet",
+  "version": "1.0.0",
+  "description": "Dungeons and Dragons 5e Power Sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Dungeons",
+    "and",
+    "Dragons",
+    "5e",
+    "Character",
+    "Sheet"
+  ],
+  "author": "Michael Hartmayer",
+  "license": "ISC"
+}
