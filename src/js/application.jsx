@@ -33,7 +33,7 @@ const About = () => (
   </div>
 )
 
-import A from './containers/CharacterSheet.jsx'
+import A from './containers/CharacterSheet'
 
 const Sheet = _ => (
   <div className='sheet'>
